@@ -1,20 +1,59 @@
+# Task 2 – Phishing Detection & Awareness
 
-# Phishing Email Analysis Report
+This folder contains the deliverables for **Task 2: Phishing Detection & Awareness**, completed as part of the **Cyber Security Internship Program at Future Interns**.
 
-This folder contains the final report for **Task 02: Phishing Email Detection & Awareness**, completed as part of the Cyber Security Internship Program.
+The purpose of this task is to analyze phishing emails, identify common phishing indicators, and create an awareness report that helps users understand and avoid phishing attacks.
 
-## Report Overview
-The report presents a detailed analysis of a phishing email sample. It includes email header analysis, content-based indicators, risk classification, and awareness guidelines to help users identify phishing attacks.
+---
 
-## Contents
-- **Task 02.pdf** – Final phishing email analysis report (PDF)
+## 🎯 Objective
+- Analyze phishing email samples
+- Identify common phishing indicators
+- Classify email risk clearly (Safe / Suspicious / Phishing)
+- Explain phishing attacks in simple, non-technical language
+- Create an awareness-focused document for users and employees
 
-## Key Highlights
-- Analysis of SPF, DKIM, and DMARC results  
-- Identification of phishing indicators  
-- Risk classification of the email  
-- Explanation of how the phishing attack works  
-- Prevention tips and Do’s & Don’ts for users  
+---
 
-## Note
-This report is created strictly for **educational and awareness purposes**.
+## 📧 Email Sample Used
+- Sample phishing email provided in the task description
+- Example: Account verification phishing email with a suspicious link and urgent language
+
+---
+
+## 🔍 Analysis Approach
+The phishing email was analyzed by:
+- Reviewing the email content and structure
+- Identifying red flags such as urgency, generic greetings, and suspicious links
+- Understanding how attackers attempt to manipulate users
+- Classifying the email based on observed phishing indicators
+
+No interaction with malicious links or real email accounts was performed.
+
+---
+
+## 🛠️ Tools Used
+- Public phishing email samples (for reference)
+- Browser tools (for safely inspecting URLs and domains)
+- Google Docs / MS Word (for report documentation)
+
+---
+
+## 📄 Deliverables
+- **Phishing Detection & Awareness Report**  
+  Located in the `Report/` folder  
+- **Supporting Evidence / Samples**  
+  Located in the `Evidence/` folder (if applicable)
+
+---
+
+## ⚠️ Ethical Notice
+This task was completed strictly for **educational and awareness purposes**.  
+No hacking, exploitation, or interaction with real malicious systems was performed.
+
+---
+
+### Prepared by
+**Anjali Rakshale**  
+Cyber Security Intern – Future Interns
+
